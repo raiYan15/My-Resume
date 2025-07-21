@@ -1,0 +1,84 @@
+/* Raiyan_CV.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    background-color: lightpink;
+    color: black;
+}
+div {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px auto;
+    border: white 2px solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+h1 {
+    text-align: center;
+    color: #121212;
+    font-size: 40px;
+    margin-bottom: 10px;
+      
+}
+
+a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+}
+
+h2.Dino {
+    color: #0b3d91;
+    font-size: 22px;
+    margin-top: 30px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+.skills-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #121212;
+    font-weight: bold;
+}
+
+
+
+
